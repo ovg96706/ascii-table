@@ -1,0 +1,2 @@
+for i in range(128):  # ASCII символы от 0 до 127
+        print(f"{i:3}  {chr(i)}")
